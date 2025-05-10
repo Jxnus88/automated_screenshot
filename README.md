@@ -116,6 +116,9 @@ Las capturas de pantalla se guardarán automáticamente en una carpeta cuyo nomb
     Tecla 'q' presionada. Deteniendo el programa...
     ```
 
+[![Ver el video](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 ## Contribución
 
 Si deseas contribuir al proyecto, puedes hacer un fork y enviar pull requests con mejoras o correcciones. ¡Estaré encantado de revisarlos!
