@@ -1,0 +1,25 @@
+# Ignorar archivos de Python compilados
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorar carpetas de entorno virtual
+venv/
+env/
+.venv/
+.env/
+
+# Ignorar archivos de configuración de IDEs (por ejemplo, Visual Studio Code, PyCharm)
+.vscode/
+.idea/
+
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de captura de pantallas (si generas capturas que no quieres versionar)
+screenshots_*/  # Ignorar cualquier carpeta que empiece con screenshots_
+
+# Ignorar archivos temporales de editor de texto
+*~  # Archivos temporales de edición
